@@ -26,10 +26,10 @@ A very basic flutter app that gives you affirmation you daily need by saying "I 
 ## :bookmark_tabs: What’s In This Document
 
 - [Get Up and Running in 5 Minutes](#rocket-get-up-and-running-in-5-minutes)
-- [How it looks on Mobile?]()
+- [How it looks on Mobile?](#bookmark_tabs-how-it-looks-on-mobile)
 - [Queries / Bugs](#question-queries--bugs)
 - [License](#memo-license)
-- [Thanks to Contributors and Sponsors](#purple_heart-thanks)
+- [Thanks and closing remarks](#purple_heart-thanks)
 
 ## :rocket: Get Up and Running in 5 Minutes
 
